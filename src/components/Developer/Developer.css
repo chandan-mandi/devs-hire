@@ -1,0 +1,20 @@
+.developer-card {
+    background-image: linear-gradient(to top, #d16ba5, #c373b5, #b27bc2, #9f83cb, #8b8ad1, #7794d9, #639ddc, #4fa5dd, #3ab2de, #33bedb, #42c9d4, #5cd3cb);
+    border-radius: 5px;
+    padding: 10px 5px;
+    margin: 5px;
+}
+.developer-card p {
+    margin: 2px;
+}
+.developer-card img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.btnAddToCart {
+    background-color: gold;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+}

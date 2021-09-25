@@ -1,0 +1,16 @@
+.shop-container .cart-section h3,h4,h5{
+    color: #fff;
+}
+.cart-img-box {
+    padding: 10px;
+    background-color: orange;
+    margin: 10px 20px;
+    border-radius: 4px;
+    justify-content: space-around;
+    align-items: center;
+}
+.cart-img-box img {
+    width: 50px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
