@@ -12,9 +12,11 @@ const Cart = (props) => {
     }
     return (
         <div className="cart-section">
-            <h4>Order Summary</h4>
-            <h5>Developers Added : {props.cart.length}</h5>
-            <h5>Total Cost : ${total}</h5>
+            <div className="cart-heading">
+                <h4>Your Developer Team</h4>
+                <h5>Total Person : {props.cart.length}</h5>
+                <h5>Total Salaries : ${total}</h5>
+            </div>
             <div>
                 {
                     cart.map(product => <CartNameBox

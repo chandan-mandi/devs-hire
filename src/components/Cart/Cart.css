@@ -1,9 +1,9 @@
 .shop-container .cart-section h3,h4,h5{
-    color: #fff;
+    /* color: #fff; */
 }
 .cart-img-box {
     padding: 10px;
-    background-color: orange;
+    background-image: linear-gradient(to top, #d16ba5, #c373b5, #b27bc2, #9f83cb, #8b8ad1, #7794d9, #639ddc, #4fa5dd, #3ab2de, #33bedb, #42c9d4, #5cd3cb);
     margin: 10px 20px;
     border-radius: 4px;
     justify-content: space-around;
@@ -13,4 +13,15 @@
     width: 50px;
     border-radius: 50%;
     margin-right: 15px;
+}
+.cart-heading {
+    background-color: #fff;
+    color: black;
+    margin: 15px;
+    border-radius: 6px;
+    padding: 7px;
+    box-shadow: inset 0px 2px 4px 1px #ddcbcbab;
+}
+.cart-img-box h5 {
+    color: #fff;
 }
