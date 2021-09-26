@@ -1,7 +1,7 @@
-# Getting Started with Create React App
+# Readme file Updated
 
 This project Live site Link - https://devs-hire.netlify.app/
 
-## Available Scripts
+## Libary
 
 This site created with React JS 
